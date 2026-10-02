@@ -43,6 +43,8 @@ Slicers and filtering
 Financial KPI analysis
 Interactive report design
 
+preview 
+![image alt](https://github.com/anuragdatacore-cpu/movies-powerbi-dashboard/blob/7be2f9da630ada4b0ac7fa9866d7033ec7b83aeb/Screenshot%202026-10-02%20192327.png)
 Dashboard Questions
 Some of the questions explored in the report:
 Which movies generate the highest profit?
